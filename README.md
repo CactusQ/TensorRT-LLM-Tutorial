@@ -13,8 +13,8 @@ This Jupyter notebook demonstrates the optimization of the BLOOM 560M model, a l
 
 ## Prerequisites
 - NVIDIA GPU with CUDA support
-- Docker and NVIDIA Container Toolkit installed
-- Python 3.10, pip, and necessary Python libraries installed
+- Docker and NVIDIA Container Toolkit installed (will be installed in the notebook as well)
+- Python 3.10, pip, and necessary Python libraries
 - Jupyter or Google Colab
 
 Or run the docker container and install Jupyter there:
